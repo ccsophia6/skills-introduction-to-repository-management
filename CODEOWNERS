@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ccsophia6
+/src/backend/database.py      @ccsophia6
+/src/backend/routers/auth.py  @ccsophia6
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ccsophia6
